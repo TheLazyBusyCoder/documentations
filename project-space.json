@@ -1,6 +1,6 @@
 [
   {
-    day: 1,
-    desc: "Started working on new project, In this project i'll be using NASA's API to create a full stack web app."
+    "day": 1,
+    "desc": "Started working on new project, In this project i'll be using NASA's API to create a full stack web app."
   }
 ]
